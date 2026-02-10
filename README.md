@@ -12,14 +12,9 @@ I'm a software engineer dedicated to crafting innovative solutions across multip
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express, Prisma, Flask
 - **Game Development**: Godot Engine, Game Design, Interactive Systems
-- **Algorithms & Data Structures**: Greedy Algorithms, Dynamic Programming, Pattern Recognition, State Machines
 - **Data Science & ML**: TensorFlow, Pandas, Numpy, OpenAI API
 - **Tools & Platforms**: Git, GitHub, Docker, Jupyter Notebook, OBS, PostgreSQL, CMake
 - **Methodologies**: ETL/Data Pipeline Design, Full-Stack Development, Test-Driven Development
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reixyz22&show_icons=true&theme=dark)
 
 ## 🌟 Featured Projects
 
