@@ -154,15 +154,6 @@ A comprehensive collection of machine learning implementations from the "Machine
 
 ---
 
-## 🎯 Current Focus
-
-I'm actively interested in:
-- **Game Development**: Building engaging games with Godot, exploring mechanics and interactive storytelling
-- **Competitive Programming**: Solving algorithmic challenges and optimizing solutions
-- **Full-Stack Development**: Building scalable web applications with modern frameworks
-- **Machine Learning**: Applying AI/ML to solve real-world problems
-- **Automation**: Creating tools that eliminate repetitive work and drive impact
-
 ## 🌱 Currently Learning
 
 - Advanced game development and level design
@@ -170,6 +161,7 @@ I'm actively interested in:
 - Cloud architecture and deployment strategies
 - Advanced AI/ML applications and fine-tuning models
 - Real-time system design
+- Unreal Engine
 
 ## 💬 Let's Connect!
 
@@ -177,7 +169,6 @@ I'm always excited to discuss software engineering, game development, algorithms
 
 - **Email**: [pittswilliam715@gmail.com](mailto:pittswilliam715@gmail.com)
 - **LinkedIn**: [linkedin.com/in/william-pitts-2r2](https://www.linkedin.com/in/william-pitts-2r2/)
-- **GitHub**: [@reixyz22](https://github.com/reixyz22)
 - **itch.io**: [reixyz.itch.io](https://reixyz.itch.io/godot-village)
 
 ## 🚀 Quick Facts
@@ -190,13 +181,6 @@ I'm always excited to discuss software engineering, game development, algorithms
 - ⚙️ Automation enthusiast creating tools that save time and drive impact
 - 🎯 Detail-oriented problem solver with a focus on clean, optimized code
 
-## 📫 How to Reach Me
-
-Have an exciting project idea? Want to collaborate, discuss tech, or talk about game development? I'd love to hear from you!
-
-- Open an issue on any of my repositories
-- Send me an email at pittswilliam715@gmail.com
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/william-pitts-2r2/)
 - Check out my games on [itch.io](https://reixyz.itch.io/)
 
 ---
