@@ -31,7 +31,7 @@ My indie game project built with the Godot Engine!
 ---
 
 ### 2. **Advent of Code 2025** 🚀
-High-performance algorithm solutions demonstrating competitive programming excellence.
+High-performance algorithm solutions demonstrating competitive programming training in multiple languages.
 
 - **Description**: Solutions to Advent of Code 2025 challenges implemented in both Python and C++. Showcases problem-solving approach, code quality, and optimization techniques with focus on algorithmic efficiency.
 - **Tech Stack**: Python 3.x, C++ 17, CMake
@@ -90,7 +90,6 @@ Intelligent automation tool built for Chi-AWE nonprofit organization.
   - Separation of concerns: Email generation vs SMTP sending
   - Modular function design for reusability
   - Configuration over code approach
-  - RFC-compliant email construction
   
 - **Link**: [View Project](https://github.com/reixyz22/Email)
 
@@ -128,13 +127,13 @@ An intelligent web scraper that automates event discovery and uses AI to extract
 ### 6. **Contact-Editor-Next** 📇
 A modern full-stack contact management application built with cutting-edge web technologies.
 
-- **Description**: A sleek contact management system featuring a React/Next.js frontend with Tailwind CSS styling and a Prisma PostgreSQL backend. Includes features for adding, editing, and managing contacts with a polished user interface.
+- **Description**: A sleek contact management system featuring a React/Next.js frontend with Tailwind CSS styling and a Prisma PostgreSQL backend. Includes features for adding, editing, and managing contacts with a polished user interface. NOTE: this was made before tools like Cursor.
 - **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Docker
 - **Key Features**:
   - Add new contacts
   - Edit contact details (email, phone, name)
   - Full-stack type-safe development
-  - Deployed application
+  - Locally deployed application
   - Docker support for easy deployment
 - **Link**: [View Project](https://github.com/reixyz22/Contact-Editor-Next)
 
