@@ -11,11 +11,13 @@ I'm a software engineer dedicated to crafting innovative solutions across multip
 - **Languages**: Python, C++, TypeScript, JavaScript, HTML/CSS
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express, Prisma, Flask
-- **Game Development**: Unreal 4/5 (Learning and thought storming first game / project idea. Using free coursera course provided by NEIU) Godot Engine, Game Design, Interactive Systems
+- **Game Development**: Unreal 4/5¹  Godot Engine, Game Design, Interactive Systems
 - **Data Science & ML**: TensorFlow, Pandas, Numpy, OpenAI API
 - **Tools & Platforms**: Git, GitHub, Docker, Jupyter Notebook, OBS, PostgreSQL, CMake
 - **Methodologies**: ETL/Data Pipeline Design, Full-Stack Development, Test-Driven Development
 
+  
+(Learning and thought storming first game / project idea. Using free coursera course provided by NEIU as a basic exposure / starting spot)¹
 ## 🌟 Featured Projects
 
 ### 1. **🎮 Godot Village Game**
