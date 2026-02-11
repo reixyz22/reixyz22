@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a keen
 
 ## 🎮 About Me
 
-I'm a software engineer dedicated to crafting innovative solutions across multiple domains—from competitive algorithm challenges to real-world automation systems, and game development. I'm passionate about clean code, optimization, and creating technology that makes a genuine impact. Whether it's optimizing algorithms, automating nonprofit workflows, or building games, I approach every project with enthusiasm and attention to detail.
+I'm a software engineer dedicated to crafting innovative solutions across multiple domains—from competitive algorithm challenges to real-world automation systems, and game development. I'm passionate about clean code, optimization, and creating technology that makes a genuine impact. Whether it's optimizing algorithms, automating nonprofit workflows, or building games, I approach every project with enthusiasm and attention to detail. I would call myself a generalist, but also with the ability to hyper-focus on a specfic task. I genuinely enjoy bug hunting, also-- Esp considering my teaching background as a peer leader at NEIU and a summer camp teaching assistant at Northwestern; I love that feeling of shifting in a new context and solving a unique problem. 
 
 ## 🛠️ Skills & Technologies
 
 - **Languages**: Python, C++, TypeScript, JavaScript, HTML/CSS
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express, Prisma, Flask
-- **Game Development**: Godot Engine, Game Design, Interactive Systems
+- **Game Development**: Unreal 4/5 (Learning and thought storming first game / project idea.) Godot Engine, Game Design, Interactive Systems
 - **Data Science & ML**: TensorFlow, Pandas, Numpy, OpenAI API
 - **Tools & Platforms**: Git, GitHub, Docker, Jupyter Notebook, OBS, PostgreSQL, CMake
 - **Methodologies**: ETL/Data Pipeline Design, Full-Stack Development, Test-Driven Development
