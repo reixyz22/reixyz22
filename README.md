@@ -35,27 +35,8 @@ High-performance algorithm solutions demonstrating competitive programming train
 
 - **Description**: Solutions to Advent of Code 2025 challenges implemented in both Python and C++. Showcases problem-solving approach, code quality, and optimization techniques with focus on algorithmic efficiency.
 - **Tech Stack**: Python 3.x, C++ 17, CMake
-- **Notable Solutions**:
-  
-  **Day 1: Dial State Machine**
-  - Simulates circular dial systems with wraparound logic
-  - Handles edge cases when dial is at position 0
-  - Available in both Python and C++
-  
-  **Day 2: Pattern Recognition**
-  - Identifies repeating digit patterns within number ranges
-  - Part 1: Simple symmetry detection (O(n√m))
-  - Part 2: Complete pattern detection with factor analysis optimization
-  - **Optimization**: Pre-computed factor table reduces complexity from O(n√m) to O(n)
-  - Caching strategy eliminates redundant calculations
-  
-  **Day 3: Greedy String Algorithms**
-  - Extracts maximum value substrings with constraint of keeping K digits
-  - Greedy monotonic stack algorithm
-  - **Time Complexity**: O(n), **Space Complexity**: O(1) relative to input
-  - Finds K (12 for AoC) digits efficiently in both implementations
-
 - **Key Features**:
+  - Problem by problem analysis provided in the readme.md 
   - Multi-language implementations (Python & C++)
   - Built-in test validation through test cases
   - Automated edge case monitoring
