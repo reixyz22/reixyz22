@@ -1,173 +1,174 @@
-# Hi there, I'm William Pitts 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a keen interest in **game development**, algorithms, and building impactful solutions. I love solving complex problems, creating engaging digital experiences, and contributing to meaningful projects.
+Claude finished the response
+William_Pitts_SWE_Resume.pdf
+pdf
 
-## 🎮 About Me
 
-I'm a software engineer dedicated to crafting innovative solutions across multiple domains—from competitive algorithm challenges to real-world automation systems, and game development. I'm passionate about clean code, optimization, and creating technology that makes a genuine impact. Whether it's optimizing algorithms, automating nonprofit workflows, or building games, I approach every project with enthusiasm and attention to detail. I would call myself a generalist, but also with the ability to hyper-focus on a specfic task. I genuinely enjoy bug hunting, also-- Esp considering my teaching background as a peer leader at NEIU and a summer camp teaching assistant at Northwestern; I love that feeling of shifting in a new context and solving a unique problem. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Message collapsed
+
+Read 6 files, ran 4 commands, updated tasks
+
+Read 6 files, ran 4 commands, updated tasks
+Looks great and fits nicely on one page (Education spilled to page 2). Let me check page 2 and tighten spacing to fit one page.
+
+
+Updated tasks, edited 4 files, ran 4 commands · 5 notes
+
+
+Updated tasks, edited 4 files, ran 4 commands · 5 notes
+Both are done, one page, one page fit:
+
+Resume — dropped every "Chicago, IL" location tag, cut the "open-sourced under MIT" line, and rewrote the Cowork Job Hunter bullets into three concrete, impressive features (agentic pipeline, karma-based ranking + scam filtering, optional Gmail tracking) instead of vague architecture-speak. Kept everything else, since you asked for small edits.
+
+GitHub README — fixed the typos and run-on in the About Me section, tightened the tone throughout, dropped the "Chicago Asian Women Empowerment" parenthetical, and gave the Cowork Job Hunter project top billing with a proper features list to match how it reads on the resume now.
+
+
+C:\Users\pitts\AppData\Roaming\Claude\local-agent-mode-sessions\90d89cde-02df-4e63-9fff-14d9f99493ed\7e1bfdcb-38eb-4b29-8269-be54ba8512ef\local_89fb9388-954c-4a48-b987-e20b68d4bf4f\outputs\William_Pitts_SWE_Resume_Yara.pdf
+Document 
+
+C:\Users\pitts\AppData\Roaming\Claude\local-agent-mode-sessions\90d89cde-02df-4e63-9fff-14d9f99493ed\7e1bfdcb-38eb-4b29-8269-be54ba8512ef\local_89fb9388-954c-4a48-b987-e20b68d4bf4f\outputs\README.md
+Document 
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+
+
+Readme · MD
+# Hi, I'm William Pitts 👋
+ 
+Software engineer who ships end-to-end — from agentic pipelines to full-stack apps to game engines. I like taking a project from a blank repo to something people actually use.
+ 
+## About Me
+ 
+I'm a generalist by trade with a habit of going deep: I've shipped algorithm-heavy tooling, automated real workflows for a nonprofit, and built games from scratch, and I bring the same attention to detail to all of it. I care about clean code, fast iteration, and technology that solves a real problem for a real person. Teaching has shaped how I work — as a peer leader and a summer camp TA, I got good at dropping into a new context fast, finding the actual bug, and explaining it clearly. That's the same instinct I bring to any new codebase.
+ 
 ## 🛠️ Skills & Technologies
-
+ 
 - **Languages**: Python, C++, TypeScript, JavaScript, HTML/CSS
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express, Prisma, Flask
-- **Game Development**: Unreal 4/5¹  Godot Engine, Game Design, Interactive Systems
-- **Data Science & ML**: TensorFlow, Pandas, Numpy, OpenAI API
-- **Tools & Platforms**: Git, GitHub, Docker, Jupyter Notebook, OBS, PostgreSQL, CMake
-- **Methodologies**: ETL/Data Pipeline Design, Full-Stack Development, Test-Driven Development
-
-  
-(Learning and thought storming first game / project idea. Using free coursera course provided by NEIU as a basic exposure / starting spot)¹
+- **Game Development**: Unreal 4/5, Godot Engine, Game Design, Interactive Systems
+- **Data Science & ML**: TensorFlow, Pandas, NumPy, OpenAI API
+- **Tools & Platforms**: Git, GitHub Actions, Docker, Jupyter Notebook, OBS, PostgreSQL, CMake
+- **Methodologies**: ETL / Data Pipeline Design, Full-Stack Development, Test-Driven Development
 ## 🌟 Featured Projects
-
-### 1. **🎮 Godot Village Game**
-My indie game project built with the Godot Engine!
-
-- **Description**: An interactive village-building game created with Godot. Experience game design, mechanics, and storytelling in action.
-- **Play the Game**: [Play on itch.io](https://reixyz.itch.io/godot-village)
-- **Tech Stack**: Godot Engine, GDScript
-- **Link**: [View Game Page](https://reixyz.itch.io/godot-village)
-
----
-
-### 2. **Advent of Code 2025** 🚀
-High-performance algorithm solutions demonstrating competitive programming training in multiple languages.
-
-- **Description**: Solutions to Advent of Code 2025 challenges implemented in both Python and C++. Showcases problem-solving approach, code quality, and optimization techniques with focus on algorithmic efficiency.
-- **Tech Stack**: Python 3.x, C++ 17, CMake
+ 
+### 1. 🤖 Cowork Job Hunter — AI agent, open source
+A multi-agent pipeline that runs unattended on a schedule inside Claude Cowork: it researches job boards, ranks leads, and drafts tailored resumes and cover letters end to end.
+- **Description**: Two scheduled passes a day handle the research-to-delivery pipeline — an overnight sweep finds and ranks leads, a morning pass verifies links and ships the brief. State persists across runs without clobbering history, and job boards earn or lose a "karma" score based on real outcomes.
+- **Tech Stack**: Claude Agent SDK, Python, Markdown-based state management, GitHub Actions (CI)
 - **Key Features**:
-  - Problem by problem analysis provided in the readme.md 
-  - Multi-language implementations (Python & C++)
-  - Built-in test validation through test cases
-  - Automated edge case monitoring
-  - No external dependencies (pure algorithm implementations)
-  - Clean, optimized code with complexity analysis
-  
-- **Link**: [View Project](https://github.com/reixyz22/Advent_of_Code_2025_)
-
+  - Self-improving lead ranking via per-board karma scoring
+  - Three-tier scam/dead-listing detection (RED / YELLOW / GREEN)
+  - Tailored resume, cover letter, and outreach drafts per lead
+  - Optional read-only Gmail integration for automatic application tracking
+- **Link**: [View Project](https://github.com/reixyz22/Claude-Co-work-Job-Hunter)
 ---
-
-### 3. **Email Automation System** 📧
-Intelligent automation tool built for Chi-AWE nonprofit organization.
-
-- **Description**: Automated email outreach system that eliminates repetitive manual labor. Reduces email campaign workload by **30+ hours annually** through CSV-driven personalized messaging. Built for Chi-AWE (Chicago Asian Women Empowerment), a 501(c)3 nonprofit.
+ 
+### 2. 🎮 Godot Village Game
+An indie village-building game built solo with the Godot Engine.
+- **Description**: An interactive village-building game exploring game design, mechanics, and storytelling.
+- **Tech Stack**: Godot Engine, GDScript
+- **Play It**: [itch.io](https://reixyz.itch.io/godot-village)
+---
+ 
+### 3. 🚀 Advent of Code 2025
+High-performance algorithm solutions across two languages, written for speed and readability.
+- **Description**: Solutions to Advent of Code 2025 in both Python and C++, with a problem-by-problem writeup covering approach, complexity, and tradeoffs.
+- **Tech Stack**: Python 3.x, C++17, CMake
+- **Key Features**:
+  - Multi-language implementations (Python & C++)
+  - Built-in test validation and automated edge-case checks
+  - Zero external dependencies — pure algorithm implementations
+  - Complexity analysis included per solution
+- **Link**: [View Project](https://github.com/reixyz22/Advent_of_Code_2025_)
+---
+ 
+### 4. 📧 Email Automation System
+An automation tool built for Chi-AWE, a 501(c)(3) nonprofit, that cut 30+ hours a year of manual outreach work.
+- **Description**: A CSV-driven email campaign system that converts .docx templates into personalized HTML/plain-text emails with attached, per-recipient PDFs.
 - **Tech Stack**: Python, Pandas, Mammoth, SMTP, DOCX/PDF handling
 - **Key Features**:
-  - **CSV-Driven Workflow**: Manages campaigns through simple spreadsheet inputs
-  - **Document Conversion**: Converts .docx templates to HTML and plain text emails
-  - **Multi-Attachment Support**: Automatically attaches personalized PDFs
-  - **Safety First**: Three-tier testing system (dry-run → test addresses → production)
-  - **Rate Limiting**: Built-in 1-second delay to prevent SMTP throttling
-  - **Secure Credentials**: Environment-based credential management
-  - **Debug Mode**: Test with hardcoded addresses before production
-  
-- **Impact**:
-  - ✅ 30+ hours saved annually in manual email outreach
-  - ✅ Personalized messaging at scale for donor/sponsor campaigns
-  - ✅ Zero production incidents due to comprehensive testing modes
-  - ✅ Extensible architecture for easy campaign additions
-
-- **Architecture Highlights**:
-  - Separation of concerns: Email generation vs SMTP sending
-  - Modular function design for reusability
-  - Configuration over code approach
-  
+  - CSV-driven campaign workflow with document-to-email conversion
+  - Multi-attachment support for personalized PDFs
+  - Three-tier safety testing (dry-run → test addresses → production)
+  - Rate limiting and environment-based credential management
+- **Impact**: 30+ hours saved annually, zero production incidents, personalized messaging at scale for donor/sponsor campaigns
 - **Link**: [View Project](https://github.com/reixyz22/Email)
-
 ---
-
-### 4. **FeviBardoStreamTimer** 🎥
-A sophisticated manual subathon timer with a browser-based controller panel designed for streamers.
-
-- **Description**: Built a smart streaming timer integrated with OBS that supports multiple payment platforms (YouTube, Twitch, CHZZK, Afreeca). Features mathematical conversion of inputs, crash-proof system time-based calculations, and seasonal background artwork.
+ 
+### 5. 🎥 FeviBardoStreamTimer
+A real-time subathon timer with a browser-based control panel, built for streamers and integrated directly with OBS.
+- **Description**: Supports multiple payment platforms, converts inputs into time mathematically, and uses crash-proof, system-time-based calculations so a restart never loses state.
 - **Tech Stack**: Python, Flask, HTML, JavaScript, CSS
-- **Key Features**: 
-  - Multi-platform support (YouTube SC/Memberships, Twitch Subs/Bits, CHZZK, Afreeca)
-  - OBS text file integration for live display
-  - Ledger system tracking all actions
-  - Seasonal themed backgrounds with fan art
-  - Crash-proof system using time-based calculations
+- **Key Features**:
+  - Multi-platform support (YouTube Super Chat/Memberships, Twitch Subs/Bits, CHZZK, Afreeca)
+  - OBS text-file integration for live on-stream display
+  - Full action ledger and seasonal themed backgrounds
 - **Link**: [View Project](https://github.com/Phoenix465/FeviBardoStreamTimer)
-
 ---
-
-### 5. **AI-Content-Aggregator** 🤖
-An intelligent web scraper that automates event discovery and uses AI to extract and organize data.
-
-- **Description**: An ETL pipeline project that searches the web for AAPI-related events in the Midwest, scrapes HTML content, and uses OpenAI's GPT API to generate intelligent event descriptions. Results are automatically organized into Excel files for easy review.
+ 
+### 6. 🤖 AI Content Aggregator
+A web scraper and ETL pipeline that finds and summarizes AAPI-related events using an LLM.
+- **Description**: Searches the web for regional events, scrapes and parses HTML, and uses the OpenAI API to generate structured event descriptions, exporting everything to Excel for review.
 - **Tech Stack**: Python, Pandas, OpenAI API, Web Scraping
 - **Key Features**:
-  - Automated web scraping and parsing
-  - AI-powered data extraction using GPT
-  - ETL pipeline architecture
-  - Structured Excel output with source URLs, event names, locations, and AI-generated descriptions
+  - Automated scraping and parsing pipeline
+  - AI-generated, structured event summaries
+  - Clean Excel output with source URLs, names, locations, and descriptions
 - **Link**: [View Project](https://github.com/reixyz22/AI-Content-Aggregator)
-
 ---
-
-### 6. **Contact-Editor-Next** 📇
-A modern full-stack contact management application built with cutting-edge web technologies.
-
-- **Description**: A sleek contact management system featuring a React/Next.js frontend with Tailwind CSS styling and a Prisma PostgreSQL backend. Includes features for adding, editing, and managing contacts with a polished user interface. NOTE: this was made before tools like Cursor.
+ 
+### 7. 📇 Contact Editor Next
+A full-stack contact management app built with a modern, type-safe web stack.
+- **Description**: A React/Next.js frontend with Tailwind styling and a Prisma/PostgreSQL backend for adding, editing, and managing contacts.
 - **Tech Stack**: Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Docker
 - **Key Features**:
-  - Add new contacts
-  - Edit contact details (email, phone, name)
-  - Full-stack type-safe development
-  - Locally deployed application
-  - Docker support for easy deployment
+  - Full CRUD contact management with a polished UI
+  - End-to-end type safety, Docker support for local deployment
 - **Link**: [View Project](https://github.com/reixyz22/Contact-Editor-Next)
-
 ---
-
-### 7. **Machine-Learning-Course-Notebook** 📚
-A comprehensive collection of machine learning implementations from the "Machine Learning for Everybody" course.
-
-- **Description**: Interactive Jupyter notebooks demonstrating fundamental and advanced machine learning concepts with real-world datasets. Covers supervised and unsupervised learning techniques with practical applications.
-- **Tech Stack**: Python, Jupyter Notebook, TensorFlow, Pandas, Numpy, Matplotlib
-- **Key Concepts Covered**:
-  - Linear Regression (Seoul Bike Sales Dataset)
-  - Nearest Neighbor & Naive Bayes
-  - Support Vector Machines
-  - Neural Networks
-  - Unsupervised Learning (K-Means, Seeds Dataset)
-  - Loss Functions & Data Splits
+ 
+### 8. 📚 Machine Learning Course Notebooks
+A worked set of ML implementations from the "Machine Learning for Everybody" course.
+- **Description**: Jupyter notebooks covering supervised and unsupervised learning on real datasets, from linear regression through neural networks.
+- **Tech Stack**: Python, Jupyter Notebook, TensorFlow, Pandas, NumPy, Matplotlib
+- **Key Concepts Covered**: Linear Regression (Seoul Bike Sales), Nearest Neighbor & Naive Bayes, SVMs, Neural Networks, K-Means, loss functions and data splits
 - **Link**: [View Project](https://github.com/reixyz22/Machine-Learning-Course-Notebook)
-
----
-
 ## 🌱 Currently Learning
-
-- Advanced game development and level design
+ 
+- Advanced game development and level design (Unreal Engine)
 - Performance optimization for competitive programming
-- Cloud architecture and deployment strategies
-- Advanced AI/ML applications and fine-tuning models
+- Cloud architecture and deployment (DevOps, Terraform)
 - Real-time system design
-- Unreal Engine
-- Devops, Terraform (Infrastructure as Code) 
-
-## 💬 Let's Connect!
-
-I'm always excited to discuss software engineering, game development, algorithms, or collaborate on innovative projects. Feel free to reach out!
-
+## 💬 Let's Connect
+ 
+I'm always up for talking software engineering, game development, algorithms, or a new project idea.
+ 
 - **Email**: [pittswilliam715@gmail.com](mailto:pittswilliam715@gmail.com)
 - **LinkedIn**: [linkedin.com/in/william-pitts-2r2](https://www.linkedin.com/in/william-pitts-2r2/)
-- **itch.io**: [reixyz.itch.io](https://reixyz.itch.io/godot-village)
-
-## 🚀 Quick Facts
-
-- 💻 Software Engineer passionate about creating impactful technology
-- 🎮 Game developer building interactive experiences with Godot
-- 🧠 Competitive programmer solving Advent of Code challenges
-- 🤖 Machine learning practitioner applying AI to real-world challenges
-- 🌐 Full-stack developer building web applications from concept to deployment
-- ⚙️ Automation enthusiast creating tools that save time and drive impact
-- 🎯 Detail-oriented problem solver with a focus on clean, optimized code
-
-- Check out my games on [itch.io](https://reixyz.itch.io/)
-
+- **itch.io**: [reixyz.itch.io](https://reixyz.itch.io/)
 ---
-
-⭐ If you find my projects interesting or useful, please consider starring them! Your support motivates me to keep building amazing things. Thanks for visiting my profile!
-
-*Last updated: February 2026*
+ 
+⭐ If a project here is useful or interesting, a star is always appreciated. Thanks for stopping by!
+ 
+*Last updated: August 2026*
+ 
